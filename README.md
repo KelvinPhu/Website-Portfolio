@@ -1,15 +1,17 @@
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Huynh Thien Phu](https://huynhthienphu-portfolio.netlify.app/), I'm a software engineer deeply passionate about technology and intrigued by the ever-evolving realm of cryptocurrency investments. With two years of hands-on experience in systems programming, I've mastered modern programming tools, crafting efficient solutions. Concurrently, I've immersed myself in the cryptocurrency market for two years, gaining valuable insights. My drive lies in exploring blockchain tech and digital currencies, aiming to enhance my investment strategies and collaborate with fellow enthusiasts to innovate financial markets. 
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Seeking opportunities to contribute my skills and expertise to cutting-edge projects, I'm excited about the possibility of joining a forward-thinking team committed to excellence.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Open for full-stack project collaboration. [email](phuhuynh197@gmail.com) me:)
+- 💬 Dedicated to Java programming and ready to assist;
 
 **languages and tools:**  
+![java-icon-png-16]()
 
+<code><img height="20" src="https://github.com/KelvinPhu/Website-Portfolio/assets/102346766/182d9c0f-a675-4107-afd8-2c08419e4e74"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
