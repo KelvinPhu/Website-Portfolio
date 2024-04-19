@@ -3,7 +3,7 @@ hi, i'm [Huynh Thien Phu](https://huynhthienphu-portfolio.netlify.app/), I'm a s
 Seeking opportunities to contribute my skills and expertise to cutting-edge projects, I'm excited about the possibility of joining a forward-thinking team committed to excellence.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
   
 - 💼 Open for full-stack project collaboration. [email](phuhuynh197@gmail.com) me:)
 - 💬 Dedicated to Java programming and ready to assist;
